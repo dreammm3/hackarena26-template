@@ -4,7 +4,12 @@ token.pickle
 __pycache__/
 *.log
 *.db
+
+# python
 venv/
-build/
-.dart_tool/
-.idea/
+backend/venv/
+
+# flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
