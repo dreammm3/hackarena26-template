@@ -5,17 +5,21 @@
 
 ## Team Details
 
-- **Team Name:**
-- **Members:**
-- **Domain:**
+- **Team Name:100X**
+- **Members:shravani chinchore, Diksha chavan, hemant bhoyar, Atharva bhavsar**
+- **Domain:Fintech**
 
 ---
 
 ## Project
 
-**Problem:** 
+**Problem:SubVampire Slayer
+Small recurring payments often go unnoticed. Create a tracker that identifies "ghost" subscriptions by analyzing spending patterns and offers a one-click "remind to cancel" feature.** 
 
-**Solution:** 
+**Solution:Unique Value Proposition: "Other apps show what you pay. We show what you waste" is a powerful differentiator
+AI Integration: Smart use of AI for pattern detection and recommendations
+Multiple Revenue-Saving Angles: Covers usage, duplicates, seasonality, bundling, and price hikes
+Ghost Address Generator: Innovative preemptive solution that's unique in the market** 
 
 ---
 
